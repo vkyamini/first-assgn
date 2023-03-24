@@ -1,5 +1,8 @@
 # Horiseon Marketing Agency #
 
+Link to application on github pages: https://vkyamini.github.io/horiseon-marketing-website/
+
+
 ## Technologies Used
 
 * HTML
